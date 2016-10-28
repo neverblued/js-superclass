@@ -1,0 +1,30 @@
+{
+  "name": "js-superclass",
+  "version": "1.0.0",
+  "description": "Superclass Inheritance System on JavaScript.",
+  "author": "Dmytro Pinskyi <neverblued@gmail.com> (www.neverblued.info)",
+  "year": "2016",
+  "licence": "MIT",
+  "keywords": [
+      "child",
+      "class",
+      "inheritance",
+      "instance",
+      "parent",
+      "superclass"
+  ],
+  "homepage": "https://github.com/neverblued/js-superclass",
+  "repository": "neverblued/js-superclass",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "*",
+    "grunt": "*",
+    "grunt-cli": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-mocha-test": "*",
+    "grunt-remove-logging": "*",
+    "mocha": "*"
+  }
+}
